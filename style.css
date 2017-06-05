@@ -13,7 +13,7 @@ html,body{
 
 body{
 	height: 100vh;
-	background: #fff;
+	background: #00ff00 url("muro.jpg") repeat fixed center;
 }
 @keyframes movie{
 	from{left: -200px;}
